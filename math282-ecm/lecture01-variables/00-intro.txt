@@ -1,0 +1,23 @@
+
+-- OH:  Tues/Thu 5:20-6:20
+        Tues/Thu 11:10 - 11:45
+
+-- text: Think Python 2nd Edition by Allen B. Downey
+
+-- Quizzes     15 
+   Midterm I   25 
+   Midterm II  25 
+   Final Exam  35 
+
+-- basic Python programing 
+   Numpy library
+   Matplotlib library
+   Math algorithms (e.g. Newton's method)
+
+-- text editor: Sublime text or Atom
+
+-- Python devlopment environment:
+   		Code skulptor 3: https://py3.codeskulptor.org/
+   		From the shell
+   		Jupyter Notebook
+    
