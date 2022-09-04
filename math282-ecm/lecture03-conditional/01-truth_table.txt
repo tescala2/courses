@@ -1,0 +1,36 @@
+Boolean logic
+
+2 values:
+
+True (T)
+False (F)
+
+3 Operators:
+
+not
+or
+and
+
+-------------
+
+x    not x
+
+T     F
+F     T
+
+
+
+x   y     x or y    x and y
+T   T       T         T
+T.  F       T         F
+F.  T       T         F
+F.  F       F         F
+
+rich  famous  rich or famous  rich and famous
+T        T           T             T
+T        F           T             F
+--------------
+
+x and ((y or z) or t)
+
+

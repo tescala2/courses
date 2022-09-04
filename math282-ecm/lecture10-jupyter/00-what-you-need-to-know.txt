@@ -1,0 +1,30 @@
+
+Notebook 01
+- how to navigate folders and open notebook
+- how to run a code (Jupiter vs codeskulptor)
+
+Notebook 02
+- how to run a cell (shift-return)
+- restart and clear output
+- restart and run all
+- order in which we run cells matters!
+- add and cut cells
+
+- how to shutdown a notebook (closing the window doesn't work)
+- how to create and name a new notebook
+- Note the file extension ipynb
+
+
+Notebook 03
+- print() not needed if at the end of the cell
+
+Notebook 04-05
+- Riemann sum example
+
+Notebook 06
+- how to import a module
+
+Notebook 07
+- Markdown cell and ### to control size of text
+- Latex
+

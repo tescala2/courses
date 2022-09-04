@@ -1,0 +1,5 @@
+ls     (dir)
+cd     (cd)
+cd ..  (cd..)
+cd ~
+    
